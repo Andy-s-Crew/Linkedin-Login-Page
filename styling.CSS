@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+.container{
+    width: 300px;
+    box-shadow: 0 0 10px 0 rgba(0,0, 0, 0.3);
+    margin: 8% auto 0;
+    text-align: center;
+}
+.container h1{
+    font-style: oblique;
+}
+.input{
+    padding: 10px;
+    margin: 10px;
+}
+.container a{
+    text-decoration: none;
+    color: royalblue;
+   
+}
+.sign-btn{
+    border-radius: 400px;
+    background-color:  royalblue;
+    color: white;
+    width: 90%;
+    border: none;
+    padding: 10px;
+    margin: 20px;
+}
+.sign{
+    border-radius: 30px;
+    border: none;
+    padding: 10px;
+    margin: 20px;
+    width: 90%;
+}
+.container hr{
+    width: 80%;
+    margin-top: 20px;
+}
+a{
+    color: royalblue;
+    text-decoration: none;
+}
+.or{
+    background: white;
+    width: 30px;
+    margin: -19px auto 10px;
+
+}
