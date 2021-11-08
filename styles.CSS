@@ -146,24 +146,28 @@ a{
 }
 
 /*----- section4------ */
-
 .section4{
-    display:flex;
     justify-content: space-between;
+    display: flex;
+}
 
-}
-.col{
+.message{
+    color: black;
     margin-left: 500px;
-    font-size: large;
+   
+} 
+#p{
+    color: royalblue;
 }
-.col1{
-    margin-right: 300px;
+.btn-box{
+    margin-right: 500px;
+}  
+  /*----- footer-----*/  
+
+.footer{
+    text-align: center;
+    margin: auto;
 }
-.but{
-    border: none;
-    padding: 10px;
-    margin: 20px;
-}
-.p{
-    color: rgb(38, 72, 172);
+.lang{
+    background: white;
 }
