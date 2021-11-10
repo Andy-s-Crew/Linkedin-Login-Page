@@ -171,3 +171,45 @@ a{
 .lang{
     background: white;
 }
+@media screen{
+
+    body{
+        margin: auto;
+        padding: 6% auto 0;
+    }
+    .form{
+        padding: 6% auto 0;
+        margin-left: 100px;
+        margin-right: 200px;
+    }
+    .logo{
+        border-top: -20%;
+        width: 100px;
+    }
+    .section1{
+        border-top: 50px;
+        display: flex;
+        justify-content: space-between;
+       background: lightgray;
+       width: 100%;
+       
+    }
+    .content{
+        border-radius:20px;
+        padding: 4px;
+        margin: 5px;
+        border: none;
+        margin-right: 100px;
+    } 
+    .h2{
+        margin-right: 100px;
+        margin-left: 300px; 
+    }
+    .text{
+        margin-left: 350px;
+    }
+    .message{
+        margin-left: 200px;
+    }   
+
+}
