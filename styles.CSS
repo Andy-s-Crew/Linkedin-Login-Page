@@ -161,7 +161,64 @@ a{
 }
 .btn-box{
     margin-right: 500px;
-}  
+} 
+/*----- section5-----*/
+.rowx{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+.volume{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:normal;
+    font-size: x-large;
+}
+.my-btn{
+    border-radius: 30px;
+    width: 100%;
+    border-style: outset;
+    padding: 10px;  
+}
+#topic{
+    padding: 8px;
+    
+}
+
+/*-----section6----*/
+.section6{
+    background-color: rgb(204, 198, 198);
+}
+.table{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.image{
+    background: transparent;
+}
+.logo-image{
+    
+    width: 100px;
+}
+.logo-image:hover{
+    background: lightgray;
+}
+
+
+
+
+
+
+
+
+
+
   /*----- footer-----*/  
 
 .footer{
